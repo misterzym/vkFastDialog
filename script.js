@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         FastUrlDialogs
-// @version      0.8
+// @version      0.8.1
 // @description  Добавляет диалоги в боковой список
 // @author       Misterzym
 // @match        https://vk.com/*
